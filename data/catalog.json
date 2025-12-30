@@ -1,0 +1,263 @@
+{
+  "categories": [
+    {
+      "id": "modular-furniture",
+      "name": "Modular Furniture",
+      "slug": "modular-furniture",
+      "description": "Modern modular furniture solutions",
+      "image": "/images/categories/modular-furniture.svg"
+    },
+    {
+      "id": "upvc-door-window",
+      "name": "UPVC Door & Window",
+      "slug": "upvc-door-window",
+      "description": "UPVC doors, windows and louvers",
+      "image": "/images/categories/upvc-door-window.svg"
+    },
+    {
+      "id": "wooden-doors-windows",
+      "name": "Wooden Doors & Windows",
+      "slug": "wooden-doors-windows",
+      "description": "Wooden doors, windows and handles",
+      "image": "/images/categories/wooden-doors-windows.svg"
+    },
+    {
+      "id": "decorative-items",
+      "name": "Decorative Items",
+      "slug": "decorative-items",
+      "description": "Wall panels, acrylic sheets and decorative materials",
+      "image": "/images/categories/decorative-items.svg"
+    },
+    {
+      "id": "lights-decorative",
+      "name": "Lights Decorative",
+      "slug": "lights-decorative",
+      "description": "Decorative lighting solutions",
+      "image": "/images/categories/lights-decorative.svg"
+    },
+    {
+      "id": "paints",
+      "name": "Paints",
+      "slug": "paints",
+      "description": "Interior and exterior paints",
+      "image": "/images/categories/paints.svg"
+    },
+    {
+      "id": "solar-energy",
+      "name": "Solar Energy",
+      "slug": "solar-energy",
+      "description": "Solar panels and energy solutions",
+      "image": "/images/categories/solar-energy.svg"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "decorative-1",
+      "title": "Acrylic Folder Handy 2024",
+      "description": "Acrylic sheets and panels catalog",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/ACRYLIC FOLDER HANDY 2024.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-2",
+      "title": "Alutuff Fluting Panels",
+      "description": "Alutuff fluting wall panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Alutuff Fluting Panels A.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-3",
+      "title": "Alutuff Shade Card",
+      "description": "Alutuff color shade options",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/ALUTUFF SHADE CARD.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-4",
+      "title": "Charcoal Panels",
+      "description": "Charcoal decorative panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Brochure_Charcoal.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-5",
+      "title": "Super Heavy Collection",
+      "description": "Super heavy duty panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Brochure_Super Heavy.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-6",
+      "title": "WPC Panels",
+      "description": "Wood plastic composite panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Brochure_WPC.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-7",
+      "title": "Crystal 3mm 6H Acrylic",
+      "description": "Crystal acrylic sheets 3mm",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Crystal 3mm 6H Acrylic.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-8",
+      "title": "Crystal Acrylic Collection",
+      "description": "Crystal acrylic panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/CRYSTAL ACRYLIC (3).pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-9",
+      "title": "Deco+ New",
+      "description": "New decorative panel designs",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/DECO + NEW.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-10",
+      "title": "Deco Charcoal Folder 2023",
+      "description": "Charcoal decorative collection",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/DECO CHARCOAL FOLDER  2023.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-11",
+      "title": "Fluted Glass Acrylic 2023",
+      "description": "Fluted glass acrylic panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/FLUTED GLASS ACRYLIC PDF 2023.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-12",
+      "title": "Fluted Panel Brochure",
+      "description": "Fluted decorative panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Fluted Panel Brochure_compressed.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-13",
+      "title": "Flutter Collection",
+      "description": "Flutter decorative panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/FLUTTER PDF-1.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-14",
+      "title": "Glaze BD Catalogue",
+      "description": "Glaze back design catalog",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Glaze BD catalogue pdf.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-15",
+      "title": "Glaze Duo Core Volume 2",
+      "description": "Glaze duo core panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Glaze Duo Core Volume - 2 (2).pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-16",
+      "title": "Inspire 2024",
+      "description": "Inspire collection 2024",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/INSPIRE 2024.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-17",
+      "title": "Inspire Full Sheet",
+      "description": "Inspire full sheet designs",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/inspire full sheet pdf.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-18",
+      "title": "Korean Durostyle 8ft x 1ft",
+      "description": "Korean durostyle panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/Korean Durostyle 8 ft x1 ft.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-19",
+      "title": "Lucido Slim",
+      "description": "Lucido slim panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/LUCIDO SLIM PDF.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-20",
+      "title": "Lucido Translucent Stone Panels",
+      "description": "Translucent stone panels",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/LUCIDO Translucent Stone Panels.pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "decorative-21",
+      "title": "Additional Catalog",
+      "description": "Additional decorative items",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/decorative-items/DOC-20241007-WA0004..pdf",
+      "categoryId": "decorative-items"
+    },
+    {
+      "id": "upvc-1",
+      "title": "PVC Plain 2G/4G",
+      "description": "PVC plain panels brochure",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/upvc-door-window/Brochure_PVC Plain_2G_4G.pdf",
+      "categoryId": "upvc-door-window"
+    },
+    {
+      "id": "upvc-2",
+      "title": "PVC Louvers",
+      "description": "PVC louvers catalog",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/upvc-door-window/PVC LOUVERS.pdf",
+      "categoryId": "upvc-door-window"
+    },
+    {
+      "id": "upvc-3",
+      "title": "Sleek Louvers 2024",
+      "description": "Sleek louvers collection 2024",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/upvc-door-window/SLEEK LOUVERS 2024.pdf",
+      "categoryId": "upvc-door-window"
+    },
+    {
+      "id": "wooden-1",
+      "title": "Kizo Main Door Handle",
+      "description": "Main door handles catalog",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/wooden-doors-windows/Kizo Main Door Handle Customer Copy.pdf",
+      "categoryId": "wooden-doors-windows"
+    },
+    {
+      "id": "lights-1",
+      "title": "Crompton In-Built Pricelist",
+      "description": "Crompton lighting price list Sep 2024",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/lights-decorative/Crompton-In-Built Pricelist Final (Sep-2024).pdf",
+      "categoryId": "lights-decorative"
+    }
+  ]
+}
