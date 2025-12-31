@@ -8,6 +8,13 @@
       "image": "/images/categories/modular-furniture.svg"
     },
     {
+      "id": "modular-kitchen",
+      "name": "Modular Kitchen",
+      "slug": "modular-kitchen",
+      "description": "Modern modular kitchen solutions",
+      "image": "/images/categories/modular-kitchen.jpeg"
+    },
+    {
       "id": "upvc-door-window",
       "name": "UPVC Door & Window",
       "slug": "upvc-door-window",
@@ -258,6 +265,14 @@
       "thumbnail": "/images/pdfs/placeholder.svg",
       "pdfUrl": "/pdfs/lights-decorative/Crompton-In-Built Pricelist Final (Sep-2024).pdf",
       "categoryId": "lights-decorative"
+    },
+    {
+      "id": "kitchen-1",
+      "title": "Modular Kitchen",
+      "description": "Modular Kitchen Works",
+      "thumbnail": "/images/pdfs/placeholder.svg",
+      "pdfUrl": "/pdfs/lights-decorative/Modular Kitchen.pdf",
+      "categoryId": "modular-kitchen"
     }
   ]
 }
